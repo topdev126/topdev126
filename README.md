@@ -56,7 +56,6 @@ Here are some of the highlights of my work:
 Feel free to reach out and discuss exciting opportunities, ideas, or collaborations!  
 
 - **GitHub:** [GitHub Link](https://github.com/topdev126)  
-- **LinkedIn:** [LinkedIn Link](https://www.linkedin.com/in/sasa-simic-a31588326/)  
 - **Email:** sasasimic009@outlook.com | que.quao126@gmail.com
 
 Let's build something amazing together!  
