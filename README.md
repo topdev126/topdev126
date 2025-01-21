@@ -11,8 +11,11 @@ Hi there! I'm a passionate **Senior Developer** with extensive experience buildi
 - **Skills:** Responsive Design, Component Architecture, State Management, Single Page Applications (SPAs)  
 
 ### ⚙️ **Backend Development**
-- **Frameworks:** Express.js, Flask, Django, Laravel  
-- **Skills:** RESTful APIs, GraphQL, Authentication & Authorization, Microservices  
+- **Frameworks:** Express.js, Nest.js Flask, Django, FastApi, Laravel  
+- **Skills:** RESTful APIs, GraphQL, Authentication & Authorization, Microservices
+
+### **CMS Framework**
+- WordPress/WooCommerce, Joomla, Drupal, Shopify, Strapi, 
 
 ### 📊 **Machine Learning & Data Science**
 - **Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)  
