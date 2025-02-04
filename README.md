@@ -59,6 +59,6 @@ Here are some of the highlights of my work:
 Feel free to reach out and discuss exciting opportunities, ideas, or collaborations!  
 
 - **GitHub:** [GitHub Link](https://github.com/topdev126)  
-- **Email:** speedifytv@gmail.com | que.quao126@gmail.com
+- **Email:** rkyet98@gmail.com | que.quao126@gmail.com
 
 Let's build something amazing together!  
