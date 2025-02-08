@@ -58,7 +58,6 @@ Here are some of the highlights of my work:
 ## 📫 Let's Connect
 Feel free to reach out and discuss exciting opportunities, ideas, or collaborations!  
 
-- **GitHub:** [GitHub Link](https://github.com/topdev126)  
-- **Email:** rkyet98@gmail.com | que.quao126@gmail.com
+- **GitHub:** [GitHub Link](https://github.com/topdev126) 
 
 Let's build something amazing together!  
